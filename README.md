@@ -1,6 +1,5 @@
 # LiDAR_Camera_Calibration
-Autoware camera lidar calibrator extracted from the [autoware_ai_utilities](https://github.com/autowarefoundation/autoware_ai_utilities/tree/master/autoware_camera_lidar_calibrator)
-Tested on Ubuntu 20.04 with ROS Noetic
+Autoware camera lidar calibrator extracted from the [autoware_ai_utilities](https://github.com/autowarefoundation/autoware_ai_utilities/tree/master/autoware_camera_lidar_calibrator). Tested on Ubuntu 20.04 with ROS Noetic
 
 Dependence Packages from Autoware:
 - [autoware_build_flags](https://github.com/autowarefoundation/autoware_ai_common/tree/master/autoware_build_flags)
